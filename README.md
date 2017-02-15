@@ -27,7 +27,7 @@ Advanced Java course.
 	
 	mvn clean jetty:run
 
-# RESTful API Document
+# RESTful API Document test
 
 
 
